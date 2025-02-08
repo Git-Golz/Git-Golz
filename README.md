@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Git-Golz
-- 👀 I’m interested in Bioinformatics, data analysis, machine learning in medicine
+- 👀 I’m interested in machine learning, statistics, and data science
 - 🌱 I’m currently learning Python, R, SQL
-- 💞️ I’m looking to collaborate on Analysis of medical data, machine learning projects in medical imaging
+- 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me golzmichelle@gmail.com
 
 <!---
